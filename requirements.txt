@@ -3,4 +3,3 @@ streamlit
 watchdog
 numpy
 pandas
-gzip
